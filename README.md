@@ -1,2 +1,5 @@
-# ExcelR-Mid-Afternoon
-Welcome to the repository for hosting coding knowledge.
+Author - Sujaygouda 
+
+License - Restricted (need permission to use outside) 
+
+ Welcome to my Full Stack Java Development Repository!!!
