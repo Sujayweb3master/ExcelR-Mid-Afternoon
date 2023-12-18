@@ -1,0 +1,24 @@
+
+
+		Note: 1. C++ allows multiple inheritance, but Java only allows single inheritance.
+
+
+		Inheritance:
+		
+			Acquiring the properties and behaviours of parent class.
+			
+			* Parent class => base class
+			* Child class => derived class
+			
+		Types:
+		
+			1. Single Inheritance
+			2. Multiple Inhertiance
+			3. Multilevel Inhertiance
+			4. Hybrid Inheritance
+			5. Heirarchial Inheritance
+			
+		
+		* By using 'extends' keyword we can achieve inheritance through classes. [represented by 				SOLId line]
+		* By using 'implements' keyword we can achieve inheritance through interfaces. [represented 				by DOTTED line]
+		* One class can extend another class.  
