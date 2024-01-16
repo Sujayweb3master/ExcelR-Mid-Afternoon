@@ -7,6 +7,6 @@ public class newClass {
     }
     
     HelloWorldAgain h1 = new HelloWorldAgain();
-    HelloWorldAgain.main(args);
+//    HelloWorldAgain.main(args);
 //    h1.main(args);
 }

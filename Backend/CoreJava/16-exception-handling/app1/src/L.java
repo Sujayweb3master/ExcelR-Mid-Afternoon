@@ -1,0 +1,5 @@
+class L {
+    void test() {
+        
+    }    
+}

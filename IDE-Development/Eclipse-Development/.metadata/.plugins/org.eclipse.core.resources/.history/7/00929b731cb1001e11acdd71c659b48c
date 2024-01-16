@@ -1,0 +1,11 @@
+package app1;
+
+class A
+{
+    public static void main(String[] args)
+    {
+    	System.out.println("begin");
+        assert false: "This is printed";
+        System.out.println("end");
+    }
+}
