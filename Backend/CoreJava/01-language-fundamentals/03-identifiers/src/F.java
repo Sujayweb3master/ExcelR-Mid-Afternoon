@@ -1,3 +1,3 @@
-class _ {
-    
-}
+class Hello0World20
+{
+}                                                                          

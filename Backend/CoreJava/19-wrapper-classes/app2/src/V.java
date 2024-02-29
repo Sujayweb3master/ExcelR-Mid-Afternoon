@@ -4,7 +4,12 @@ public class V
 	static void test(int...x)
 	{
 		System.out.println("size: " + x.length);
-		System.out.println("no. of indexes are availalbe: " + (x.length - 1));
+		if(x.length == 0) 
+		{
+			System.out.println("indexes: 0");
+			return;
+		}
+		System.out.println("index starting from 0 and up to: " + (x.length - 1));
 	}
 	public static void main(String [] args)
 	{

@@ -5,7 +5,11 @@ class A
 		int i = 0;
 		Integer obj = new Integer(i);//explicite-boxing
 		int k = obj.intValue();//explicite-unboxing
+		int l = Integer.valueOf(23);
+		Integer obj1 = Integer.valueOf(23);
+		int m = obj1.intValue();
 		System.out.println(k);
+		System.out.println(l);
 		System.out.println("done");
 	}
 }

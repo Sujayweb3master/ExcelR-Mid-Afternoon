@@ -1,13 +1,9 @@
- class G {
-    
+public class J
+{
 }
-
- class H {
-    public static void main(String[] args) {
-        System.out.println("This is in J.java file");
-    }
+public class K
+{
 }
-
- class J {
-    
+public class L
+{
 }

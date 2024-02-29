@@ -1,22 +1,14 @@
-class G {
+class G
+{
+	static
+	{
+		i = 10;
+	}
 
-    static final int i;
+	static final int i;
 
-    static {
-        i = 10;
-    }
-    
-    final int j;
-
-    // G() {
-    //     j = 10;
-    // }
-
-    {
-        j = 10;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(i);
-    }
+	public static void main(String[] args)
+	{
+		System.out.println(i);
+	}
 }

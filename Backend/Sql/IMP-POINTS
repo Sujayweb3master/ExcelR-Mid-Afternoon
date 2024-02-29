@@ -1,0 +1,3 @@
+		
+		* VARCHAR2 is in oracle , it is VARCHAR in mysql.
+		* Row_id is in oracle but not in mysql.

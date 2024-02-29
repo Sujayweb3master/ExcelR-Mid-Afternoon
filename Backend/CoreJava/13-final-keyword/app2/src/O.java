@@ -1,3 +1,4 @@
-abstract class O {
-    abstract final void test1();
+abstract class O
+{
+	abstract final void test1();
 }

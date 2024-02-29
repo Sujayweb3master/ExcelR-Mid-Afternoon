@@ -1,6 +1,10 @@
-public class D {
-    public static void main(String[] args) {
-        int i;
-        System.out.println("done");
-    }
+class D
+{
+	public static void main(String[] args) 
+	{
+		int i;
+		int j = 10 + i + (i = 2);
+		System.out.println(i);
+		System.out.println(j);
+	}
 }

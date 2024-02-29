@@ -1,3 +1,3 @@
-private class R {
-    
+abstract final class R
+{
 }

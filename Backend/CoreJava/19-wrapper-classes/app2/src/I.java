@@ -2,7 +2,7 @@ class I
 {
 	static void test(Character ch)
 	{
-		System.out.println("value: " + i);
+		System.out.println("value: " + ch);
 	}
 
 	@SuppressWarnings("removal")
@@ -12,6 +12,6 @@ class I
 		char ch1 = 'b';
 		test(ch1);
 		Character ch2 = 'c';
-		test(ch2)
+		test(ch2);
 	}
 }

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 public class U
 {
-	U(String...args)
+	U(String... args)
 	{
 		String[] array = new String[args.length];
 		for(int i = 0; i <= args.length; i++)

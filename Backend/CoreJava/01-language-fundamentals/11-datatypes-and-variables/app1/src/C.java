@@ -1,12 +1,18 @@
-public class C {
-    public static void main(String[] args) {
-        char ch1 = 'a';
-        System.out.println(ch1);
-        char ch2;
-        System.out.println(ch2 = 'b');
-        System.out.println();
-        String s1;
-        System.out.println(s1 = "artificial intelligence");
-        System.out.println(s1);
-    }
+class C
+{
+	public static void main(String[] args) 
+	{
+		//local variable, local to main method
+		int i;//declaration
+		i = 10;//initialization
+		System.out.println(i);
+		i = 20;//re-initialization
+		System.out.println(i);
+		i = 30;//re-initialization
+		System.out.println(i);
+		System.out.println(i);
+	}
 }
+//The same local variables we can able to re-initialize any no. of times. 
+//local variables cant be accessed outside of the declared blocks.
+//scope of the local variables(visibility) limited to that declared blocks only.

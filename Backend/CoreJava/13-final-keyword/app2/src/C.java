@@ -1,7 +1,4 @@
-class C {
-    final int i; 
-    
-    C() {
-        i = 10;
-    }
+class C
+{
+	final static int i;
 }

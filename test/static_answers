@@ -1,0 +1,144 @@
+ 	Static Test :
+ 	
+ 	
+ 	1. output : 
+ 	
+ 		0
+ 		0
+ 		10
+ 		20
+ 		
+ 	2. output :
+ 	
+ 		0
+ 		10
+ 		0
+ 		20
+ 		0
+ 	
+ 	3. output :
+ 		
+ 		compilation error (Illegal Forward Reference error)
+ 		
+ 	4. output :
+ 	
+ 		3
+ 		
+ 	5. output :
+ 	
+ 		0 
+ 		10
+ 		
+ 	6. output :
+ 	
+ 		from test1
+ 		10
+ 		from test1
+ 		10
+ 		
+ 	7. output :
+ 		
+ 		O-SIB
+ 		O-main-b
+ 		N-SIB
+ 		10
+ 		10
+ 		10
+ 		O-main-e
+ 		
+ 	8. output :
+ 	
+ 		V-SIB	
+ 		V-main-begin
+ 		U-SIB
+ 		U-main
+ 		-----
+		U-main
+		V-main-end
+		
+	9. output :
+	
+		10
+ 	
+ 	10. output :
+ 	
+ 		2
+ 		
+ 	11. output :
+ 	
+ 		test 
+ 		SIB1
+ 		SIB2
+ 		done
+ 		10
+ 		
+ 	12. output :
+ 	
+ 		test begin 
+ 		Sib begin 
+ 		main0
+ 		Sib end
+ 		main0
+ 		test end
+ 		main20 	
+ 		
+ 	13. output :
+ 	
+ 		test
+ 		SIB1
+ 		SIB2
+ 		done 
+ 		10
+ 		
+ 	14. output :
+ 	
+ 		Q-SIB
+ 		------
+ 		P-SIB
+ 		from test1
+ 		from test1
+ 		from tes1
+ 		------
+ 		
+ 	15. output :
+ 	
+ 		from main
+ 		
+ 	16. output :
+ 	
+ 		compilation error
+ 		
+ 	17. output :
+ 		
+ 		compilation error
+ 		
+ 	18. output :
+ 	 	
+ 	 	main begin 
+ 	 	from if
+ 	 	
+ 	19. output :
+ 	
+ 		main begin
+ 		test1 begin 
+ 		test2 begin 
+ 		test2 end 
+ 		test1 end
+ 		main end
+ 		
+ 	20. output :
+ 		
+ 		test: 0
+ 		SIB: 69
+ 		main begin: 10
+ 		test: 33
+ 		69
+ 		main end: 33
+ 		
+ 		
+ 		
+ 		
+ 		
+ 		
+ 		
+ 		

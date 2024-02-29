@@ -1,3 +1,4 @@
-interface E {
-    int i;
+interface E
+{
+	int i;
 }

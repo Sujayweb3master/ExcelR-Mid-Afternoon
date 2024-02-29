@@ -1,0 +1,39 @@
+
+
+	
+		* Pagination in sql
+		
+		
+		
+		constraints :
+		
+		-  NOT NULL
+		-	UNIQUE
+		-	CONSTRAINT IDENTIFIER DECLARATION. EX: CONSTRAINT WORKTAB7_UK1 UNIQUE(NAME), CONSTRAINT WORKTAB8_UK1 UNIQUE(NAME, AGE) 	
+		-	PRIMARY KEY (COBINATION OF NOT NULL AND DUPLICATE)
+				NOTE: In a table there should be only one column declared as PRIMARY KEY not more than one column.
+		-	FOREIGN KEY 
+				NOTE: For FOREIGN KEY purpose REFERENCES table column either UNIQUE or PRIMARY  
+				NOTE: You can’t delete parent record without deleting a child record.
+				NOTE: By default FOREIGN KEY allows NULL values.
+				
+				
+				
+		MAPPING :
+		
+		-	ONE-TO-ONE
+		-	ONE-TO-MANY
+		-  MANY-TO-MANY
+		
+		
+		
+		
+		
+		JOIN :
+		
+		-	BY DEFAULT IT WILL BE INNER JOIN.( IF IT IS NOT SPECIFIED EXPLICITELY)
+		- 	INNER JOIN
+		-	LEFT OUTER JOIN
+		- 	RIGHT OUTER JOIN
+		- 	FULL OUTER JOIN IS NOT AVAILABLE ON MYSQL (IT IS AVAILABLE ON ORACLE) 
+		

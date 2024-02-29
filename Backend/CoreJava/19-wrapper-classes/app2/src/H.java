@@ -8,7 +8,7 @@ class H
 	@SuppressWarnings("removal")
 	public static void main(String[] args) 
 	{
-		Integer obj = new Integer(10);
+		Integer obj = new Integer(10);//explicit boxing
 		test(obj);
 		test(new Integer(20));
 		test(obj.intValue());

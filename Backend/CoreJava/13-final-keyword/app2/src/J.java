@@ -1,7 +1,9 @@
-class J {
-    static {
-        System.out.println(i);
-    }    
+class J
+{
+	static
+	{
+		System.out.println(i);
+	}
 
-    static final int i = 100;
+	static final int i = 100; 
 }

@@ -1,6 +1,6 @@
 public class X
 {
-	static void test(int x, String...y)
+	static void test(int...y, int x)
 	{
 		System.out.print("x value: " + x);
 		System.out.println(" and length of the var-arg y : " + y.length);

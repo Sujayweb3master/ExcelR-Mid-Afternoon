@@ -10,7 +10,7 @@ class G
 		
 		Integer obj3 = new Integer("30");
 		Integer obj4 = new Integer("40");
-
+		
 		int i = obj1.intValue();
 		int j = obj2.intValue();
 		int k = obj3.intValue();

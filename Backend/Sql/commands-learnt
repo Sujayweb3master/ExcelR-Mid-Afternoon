@@ -1,0 +1,29 @@
+
+	
+		1. INSERT INTO TABLE_NAME INPUT VALUES(X1, X2, X3);
+		2. SELECT * FROM TABLE_NAME
+		3. DESC TABLE_NAME
+		4. DROP TABLE IF EXISTS TABLE_NAME
+		
+		
+		
+			MAX(COLUMN)
+			MIN(COLUMN)
+			ORDER BY (BELONGS TO DQL)
+				-default it will be ordered in ascending order
+			ORDER BY COLUMN1, COLUMN2, ETC...
+			
+			
+			
+			
+			
+			
+			
+			NESTED QUERIES
+			RANK() OVER( CONDITION USING ORDER BY OR OTHER QUERIES)
+			
+			
+			SET @row_number := 0; ( using a variable in mysql)
+			LIMIT x, y
+			LIMIT X OFFSET Y
+			MOD() function
