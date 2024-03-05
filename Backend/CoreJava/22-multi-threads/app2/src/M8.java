@@ -25,7 +25,7 @@ class A
 		//in case of notify only one thread notified and will be finishing execution others keep on waiting
 		//notify();
 		//in case of notifyAll() all the waiting threads will be notified and finishing the execution.
-		notifyAll();
+		notify();
 		System.out.println("test2 on " + this + " end by " + Thread.currentThread().getName());
 	}
 }

@@ -1,0 +1,33 @@
+
+	
+			
+			Important Classes:
+			1. Thread
+				methods:
+				- run
+				- start
+				- join
+				- getName
+				- sleep
+				- interrupt
+				- setName
+				- getPriority
+				- setPirority
+				
+				
+			
+			Important Interfaces:
+			1. Runnable
+			
+			
+			
+			Thread Pools:
+			1. Executors (C)
+			2. ExecutorService (I)
+			3. Executor (I)
+			
+				methods :
+					- Execturs.newFixedThreadPool(int i)
+					- service.execute(Runnable r)
+			
+			Important library: java.util.concurrent

@@ -29,7 +29,7 @@ File file = new File("abc.txt");
 
 File file = new File("abc.txt");
 System.out.println(file.exists());//false
-file.createNewFile();
+file.createNew	File();
 System.out.println(file.exists())//true
 firstrun:
 false

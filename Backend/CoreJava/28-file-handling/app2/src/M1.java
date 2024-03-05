@@ -13,6 +13,7 @@ public class M1 {
 		out.write("end");
 		out.flush();
 		out.close();
+		System.out.println(f1.length());
 		System.out.println("done");
 	}
 }

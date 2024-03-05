@@ -4,9 +4,10 @@ class K extends Thread
 	public void run()
 	{
 		System.out.println("from run method of K class");
-		Thread  t1 = Thread.currentThread();
-		System.out.println("child thread priority: " + t1.getPriority());
-		System.out.println("from child: " + t1.getName());
+		
+		
+		System.out.println("child thread priority: " + this.getPriority());
+		System.out.println("from child: " + this.getName());
 	}
 }
 public class M14

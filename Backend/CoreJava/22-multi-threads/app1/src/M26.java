@@ -4,7 +4,7 @@ class V extends Thread
 	public void run()
 	{
 		System.out.println("run begin");
-		Util.sleep(10000);
+		Util.sleep(20000);
 		System.out.println("run end");
 		System.out.println("run end");
 		System.out.println("run end");

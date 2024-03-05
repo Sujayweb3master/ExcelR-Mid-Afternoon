@@ -1,0 +1,5 @@
+
+INFO [2024-02-29T11:10:57.561Z]: Set User: sujaygoudarpatilweb3@gmail.com
+INFO [2024-02-29T11:10:57.561Z]: {"Telemetry":true}
+INFO [2024-02-29T11:11:08.576Z]: extension_initialized
+INFO [2024-02-29T11:11:08.576Z]: {"timeToInit":23223,"agent":"cosine-vscode","version":"1.1.2","package":"@cosine/analytics"}

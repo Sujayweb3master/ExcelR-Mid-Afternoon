@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "D",
+            "request": "launch",
+            "mainClass": "D",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "E",
+            "request": "launch",
+            "mainClass": "E",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "F",
+            "request": "launch",
+            "mainClass": "F",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "G",
+            "request": "launch",
+            "mainClass": "G",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "H",
+            "request": "launch",
+            "mainClass": "H",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "I",
+            "request": "launch",
+            "mainClass": "I",
+            "projectName": "31-JDBC_f0254bcc"
+        },
+        {
+            "type": "java",
+            "name": "J",
+            "request": "launch",
+            "mainClass": "J",
+            "projectName": "31-JDBC_f0254bcc"
+        }
+    ]
+}

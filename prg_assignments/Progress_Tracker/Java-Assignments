@@ -25,10 +25,25 @@
     	  
 	 3.
 	 
-	 	  a)
+	 	  a) Create a new directory - using File object
+	 	  b) Create a new text file and write content to it - using File and FileWriter
+	 	  c) Read the content from an existing text file - using FileReader
+	 	  d) Append new content to an existing text file - using 
+        
+        - done with all the operations!!!!!
         
         
-        
+	 4.
+	 	   a) Create and start multiple threads.																	-			done
+	 	   b) Synchronize threads to avoid race conditions and ensure data consistency.				-			done
+	 	   c) Use wait() and notify() to implement thread communication.									-			done
+	 	   d) Implement producer-consumer problem using thread synchronization								-			done
+        	e) Use sleep() to pause threads for a specified duration.
+        											-			done
+        	f) Demonstrate thread interruption and thread termination										-			done	
+        	g) Use thread pools to manage a group of threads efficiently										-			done
+        	h) Implement thread synchronization using locks and conditions.										-			done		
+        									
         
         
         

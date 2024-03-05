@@ -12,6 +12,9 @@ public class F3
 		out.write('a');
 		out.flush();
 		out.close();
+		char ch = 68;
+		int i = 'a';
+		System.out.println((char)i);
 		System.out.println("done");
 	}
 }
